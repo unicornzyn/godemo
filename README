@@ -1,5 +1,7 @@
 go version go1.14 darwin/amd64
 
+go mod init github.com/unicornzyn/gotest*
+
 test01 打印空心金字塔
 test02 打印99乘法表
 test03 随机数函数
@@ -14,7 +16,9 @@ test11 斐波那契数列切片练习
 test12 数组冒泡排序练习
 test13 map的crud
 test14 结构体的基本使用
-test15 结构体工厂模式(相当于构造函数) (go mod init github.com/unicornzyn/gotest15)
+test15 结构体工厂模式(相当于构造函数)
 test16 接口使用(结构体排序示例)
 test17 接口类型断言两种最佳时间方式
 test18 练习-家庭收支记账软件项目
+test19 练习-客户信息关系系统
+test20 文件的基本操作
