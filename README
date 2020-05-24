@@ -27,3 +27,5 @@ test22 序列化和反序列化
 test23 单元测试
 test24 goroutine/channel基础应用
 test25 练习-协程求素数
+test26 反射的基本操作
+test27 练习-用户通信系统(网络编程)
